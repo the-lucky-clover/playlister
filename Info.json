@@ -1,7 +1,7 @@
 {
-  "name": "Retain Playlist",
-  "version": "1.0.0",
-  "identifier": "com.example.iina.retain-playlist",
+  "name": "Playlister",
+  "version": "1.1.0",
+  "identifier": "com.pounds1.playlister",
   "author": {
     "name": "pounds_1"
   },

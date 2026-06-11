@@ -1,4 +1,4 @@
-# IINA Retain Playlist Plugin
+# Playlister
 
 Automatically saves and restores the IINA playlist across app restarts.  
 Also includes **global bookmarks** with timestamp recall and a **sidebar view** for quick navigation.
@@ -9,20 +9,20 @@ Also includes **global bookmarks** with timestamp recall and a **sidebar view** 
 1. Open IINA
 2. Go to **IINA > Settings > Plugins**
 3. Click the **+** button
-4. Enter the repository URL and click install
+4. Enter `the-lucky-clover/Playlister` and click install
 
 ### Manual Install (Development)
 1. Clone or copy this repo
 2. Symlink the plugin folder to IINA's plugins directory:
    ```sh
-   ln -s /path/to/iina-retain-playlist ~/Library/Application\ Support/com.colliderli.iina/plugins/iina-retain-playlist.iinaplugin-dev
+   ln -s /path/to/Playlister ~/Library/Application\ Support/com.colliderli.iina/plugins/Playlister.iinaplugin-dev
    ```
 3. Restart IINA
 
 ## Usage
 
 The plugin runs automatically once installed.  
-Configure it in **IINA > Settings > Plugins > Retain Playlist > Preferences**.
+Configure it in **IINA > Settings > Plugins > Playlister > Preferences**.
 
 ## Features
 
